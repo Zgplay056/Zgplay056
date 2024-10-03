@@ -1,11 +1,11 @@
-## Hi there 👋
+## Yo, how is it going? 👋
 
 <!--
 **Zgplay056/Zgplay056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-#Here are some ideas to get you started:
+## <h1>Hello, this is a piece of my mind:</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning php, html, css, javascript, a little bit of node and bootstrap
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I do love Irish Culture!
 - Browser: Firefox 	![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-Music
+##Music ```
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 #I know something
