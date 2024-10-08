@@ -5,7 +5,7 @@
 
 -->
 
-## <h1>Hello, this is a piece of my mind:</h1>
+## <h1>A piece of my mind:</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning php, html, css, javascript, a little bit of node and bootstrap
@@ -15,12 +15,12 @@
 - 📫 How to reach me: gabrielgomesplay056@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do love Irish Culture!
-- Browser: Firefox 	![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+- Browser: 	![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-##Music <br>
+##<h1>Music</h1> <br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-#I know something <br>
+#<h1>I know something</h1> <br>
 
 Microsoft Excel 	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br>
 Microsoft Word 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -40,7 +40,7 @@ IDE <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Languages <br>
-HTML5 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
