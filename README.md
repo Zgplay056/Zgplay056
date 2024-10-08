@@ -17,10 +17,10 @@
 - ⚡ Fun fact: I do love Irish Culture!
 - Browser: 	![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-##<h1>Music</h1> <br>
+<h1>Music</h1> <br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-#<h1>I know something</h1> <br>
+<h1>I know something</h1> <br>
 
 Microsoft Excel 	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br>
 Microsoft Word 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
