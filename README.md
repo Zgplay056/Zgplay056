@@ -5,7 +5,7 @@
 
 -->
 
-## <h1>A piece of my mind:</h1>
+## <h1>This is a piece of my mind:</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning php, html, css, javascript, a little bit of node and bootstrap
