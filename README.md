@@ -18,6 +18,7 @@
 - Browser: 	![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 <h1>Music</h1> <br>
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 <h1>I know something</h1> <br>
